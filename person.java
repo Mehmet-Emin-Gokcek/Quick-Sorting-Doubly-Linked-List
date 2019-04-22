@@ -1,4 +1,4 @@
-public class Person {
+public class person {
     public class Node {
 
         String name;
