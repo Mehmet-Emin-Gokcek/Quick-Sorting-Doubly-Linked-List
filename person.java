@@ -156,7 +156,7 @@ public class person {
 
 
     public static void main(String[] args) {
-        Person nm = new Person();
+        person nm = new person();
         nm.insertQ("David", 30);
         nm.insertQ("Sam", 35);
         nm.insertQ("Betty", 20);
